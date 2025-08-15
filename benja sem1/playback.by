@@ -1,2 +1,3 @@
 something = input("type something here\n")
 print(something.replace(" " , "..."))
+
