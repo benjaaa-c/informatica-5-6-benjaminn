@@ -5,7 +5,7 @@ if greeting.startswith("hello"):
 elif greeting.startswith("h"):
     greeting = money + 20
     print(f"${greeting}")
-else 
-greeting = money + 100
-print(f"Your total is ${money}")
+else:
+    greeting = money + 100
+    print(f"Your total is ${money}")
 
